@@ -84,7 +84,7 @@ precip.gg
 
 <img src="week_2_activity_files/figure-gfm/unnamed-chunk-3-1.png" width="90%" style="display: block; margin: auto;" />
 
-### 3. Push to Github
+### 5. Push to Github
 
 If you’ve completed the first or both tasks, then please knit the
 document as a `github_document`. Next, please add, commit, and push your

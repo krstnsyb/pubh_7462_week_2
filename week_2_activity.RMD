@@ -119,7 +119,7 @@ precip.gg
 ```
 
 
-### 3. Push to Github  
+### 5. Push to Github  
 
 If you've completed the first or both tasks, then please knit the document as a `github_document`. Next, please add, commit, and push your changes to the Github repository connected to this project. Note that you will need to push all the associated files (contains the .html for the figures you've created) as well as the .md and .rmd. In addition, you may need to create a personal access token ([with these instructions](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)) and use that as a password when prompted to login to github. Finally, go back to your github and check out your fine work by clicking on the newly knitted .md file in your repository!    
 
